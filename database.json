@@ -1,8 +1,24 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/aparretti/cube_aparretti.git": [
+      "https://github.com/aparretti/cube_aparretti.git",
+      "1694611339898"
+    ]
+  },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "MenueSettings": {
+    "printCSG": true
+  },
+  "studio-open-git": {
+    "https://github.com/aparretti/cube_aparretti.git:cube.groovy": [
+      "https://github.com/aparretti/cube_aparretti.git",
+      "cube.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
+    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
+    "tutorialBranch": "deploy",
+    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
