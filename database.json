@@ -21,6 +21,10 @@
     "https://github.com/aparretti/AnthonyJParrettiNameTag.git:AnthonyJParrettiNameTag.groovy": [
       "https://github.com/aparretti/AnthonyJParrettiNameTag.git",
       "AnthonyJParrettiNameTag.groovy"
+    ],
+    "https://github.com/aparretti/sosArduino.git:sosArduino.ino": [
+      "https://github.com/aparretti/sosArduino.git",
+      "sosArduino.ino"
     ]
   },
   "BowlerStudioConfigs": {
